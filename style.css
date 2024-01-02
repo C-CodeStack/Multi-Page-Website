@@ -1,0 +1,21 @@
+
+h1 {
+font-size: 52px;
+font-family: Georgia;
+}
+
+.home {
+  text-align: center;
+}
+
+h3 {
+  font-family: Georgia;
+  text-decoration: underline;
+}
+
+img {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
